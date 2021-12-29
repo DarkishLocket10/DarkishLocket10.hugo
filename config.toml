@@ -6,25 +6,23 @@ publishDir = "DarkishLocket10.github.io"
 
 [menu]
   [[menu.main]]
-    name = "Home"
-    url = "/"
+    name = "About"
+    url = "/about/"
     weight = 1
-  [[menu.main]]
-    name = "Blog"
-    url = "/posts/"
-    weight = 2
   [[menu.main]]
     name = "Projects"
     url = "/projects/"
-    weight = 3
-  [[menu.main]]
-    name = "About"
-    url = "/about/"
-    weight = 4
+    weight = 2
   [[menu.main]]
     name = "Links"
-    url = "/links/"
-    weight = 5
+    url = "/Links/"
+    weight = 3
+  [[menu.main]]
+    name = "Blog"
+    url = "/blog/"
+    weight = 4
+
+
 
 [markup]
   [markup.highlight]
