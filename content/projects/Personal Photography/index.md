@@ -13,4 +13,4 @@ This is my self hosted, personal photo gallery. Here, I display all of my favour
 
 ---
 
-access it [here](https://photoprism.darkishlocket10.me)
+Access it [here](https://photoprism.darkishlocket10.me)
