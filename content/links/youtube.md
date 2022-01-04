@@ -1,6 +1,6 @@
 ---
 title: "YouTube"
 weight: 6
-
-link: "hhttps://www.youtube.com/channel/UCh-7bYEA8zulOxszxXZhStg"
+description: "My YouTube videos"
+link: "https://www.youtube.com/channel/UCh-7bYEA8zulOxszxXZhStg"
 ---

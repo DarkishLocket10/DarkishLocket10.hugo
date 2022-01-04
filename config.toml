@@ -4,6 +4,8 @@ title = "Yash Patel"
 theme = "hello-friend"
 publishDir = "DarkishLocket10.github.io"
 
+custom_jss = ["javascript.js"]
+
 [menu]
   [[menu.main]]
     name = "About"
